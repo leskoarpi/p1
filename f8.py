@@ -9,6 +9,7 @@ print(   format(szam3, '.2f' ) )
 print()
 
 #következő 
+
 print('+1, +2, +3 \n02, 03, 04, 05 \n2,000, 3,000,000')
 print()
 
